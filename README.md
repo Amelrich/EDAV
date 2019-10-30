@@ -12,5 +12,6 @@ Many thanks to Amaury Sudrie, Maxime Tchibozo, Romane Goldmuntz and Vy Tran who 
 Voici la version française du site web edav.info/ ressource utile du cours GR5702 à Columbia University.
 Il s'agit de la version du 21 Octobre 2019, toute mise à jour est la bienvenue !
 
-Mention spéciale à Amaury Sudrie, Maxime Tchibozo, Romane Goldmuntz et Vy Tran sans qui ce projet n'aurait su voir le jour
+Mention spéciale à Amaury Sudrie, Maxime Tchibozo, Romane Goldmuntz et Vy Tran sans qui ce projet n'aurait su voir le jour.
+
 Merci à eux !
