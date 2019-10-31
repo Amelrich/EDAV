@@ -1,4 +1,4 @@
-# (PARTIE) Travailler avec des données {-}
+# (PART) Travailler avec des données {-}
 
 # Importer des données {#import}
 
