@@ -1,4 +1,4 @@
-# Final Project Assignment {#project}
+# Projet final {#project}
 
 ![](images/banners/banner_presentation.png)
 
@@ -14,6 +14,7 @@ Cette section couvre ce qui est attendu pour le projet final **Spring 2019**.
 ### Objectif
 
 L'objectif de ce projet est d'explorer et analyser des données / créer des visualizations avec les données de vos choix dans le but d'étendre vos connaissances sur des sujets qui vous intéressent directement.
+
 ### Equipes
 
 Pour ce projet vous devrez travailler en équipes de 2. Si vous souhaitez choisir votre partenaire, faites-le avant **Jeudi 28 Mars, 2019.** Piazza est une bonne ressource pour montrer vos centres d'intérêts et trouver des partenares. Après le 28 Mars, des partenaires seront assignés de manière aléatoire. (Ce qui est bien pour vous préparer à travailler dans un environnement avec des collègues que vous ne connaissez pas bien.) Si vous avez déjà un partenaire et souhaitez commencer avant la date limite (ce qui est encouragé), envoye-moi un email.
@@ -115,7 +116,7 @@ Donnez un bref résumé non technique des trouvailles les plus importantes de vo
 **Note**: "Presentation" fait ici référence au style des graphiques, i.e graphiques qui ont été nettoyés pour la présentation, par opposition aux graphiques bruts qu'on utilis souvent en exploration de données. Vous n'avez pas à présenter votre travail à toute la classe!
 
 
-### VI. Partie Interactive {-}
+### VI. Partie interactive {-}
 
 Selectionnez une (ou plusieures) observations-clés et présentez-les de façon interactive. Soyez selectifs dans les choix que vous présentez à l'utilisateur; l'idée est qu'il puisse comprendre les questions que vous vous êtes posés et les tendances que vous avez découvertes en 5-10 minutes. En d'autres termes, ils devraient comprendre la valeur de votre analyse, d'un point de vue économoique, scientifique, en terme de compétence générale, etc.
 
@@ -179,4 +180,4 @@ Pour déterminer vos notes, nous regardons:
 
 ## Resources
 
-["Tidy Tuesday Screencast: analyzing college major & income data in R"](https://www.youtube.com/watch?v=nx5yhXAQLxw){target="_blank"} David Robinson explores a dataset in R live, without looking at the data in advance. This may be helpful in figuring out how to get started.
+["Tidy Tuesday Screencast: analyzing college major & income data in R"](https://www.youtube.com/watch?v=nx5yhXAQLxw){target="_blank"} David Robinson explore des jeux de données avec R en live, sans les connaître au préalable. Cela pourra vous aider à démarrer.
