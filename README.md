@@ -9,9 +9,13 @@ Mention spéciale à Amaury Sudrie, Maxime Tchibozo, Romane Goldmuntz et Vy Tran
 
 Merci à eux !
 
+Lien vers le site : https://amelrich.github.io/EDAV/
+
 ## English translation
 
 This is the French translation of the website [edav.info](http://edav.info) useful resource of GR5702 course at Columbia University.
 The version is the one of October 21st 2019, any update is welcome!
 
-Many thanks to Amaury Sudrie, Maxime Tchibozo, Romane Goldmuntz and Vy Tran who realized this translation as a Community Cobtribution
+Many thanks to Amaury Sudrie, Maxime Tchibozo, Romane Goldmuntz and Vy Tran who realized this translation as a Community Contribution
+
+Link to the website: https://amelrich.github.io/EDAV/
